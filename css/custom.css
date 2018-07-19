@@ -17,13 +17,13 @@ body, html {
 /*navbar */
 .navbar-brand{  
    font-family: logoFont;
-    line-height: 80px;
+    line-height: 70px;
     padding-top:5px;
 }
 .navbar-custom{
   font-family: bodyFont;
   font-size: 20px;
-  height: 80px;
+  height: 70px;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
 color: #ff0000;  /*Sets the text hover color on navbar*/
@@ -43,8 +43,8 @@ border-radius:50%;
     opacity: 0.8;
 }
 .navbar {
-  height: 80px;
-  line-height: 80px;
+  height: 70px;
+  line-height: 70px;
 }
   .dropdown-menu > li > a:hover,
    .dropdown-menu > li > a:focus {
