@@ -26,7 +26,7 @@ var titles = ['EDI systems',
                  'Photography']
 var sites = ['http://www.edisystemsinc.com/index.html',
                'http://www.eatrev.com',
-                'http://www.photography.gouthambudda.com/']
+                'http://photography.buddagoutham.com/']
 var descriptions = ['EDI Systems Inc. is an EDI services provider that offers a comprehensive set of fully outsourced EDI services that helps companies to take full advantage of their EDI investment.','Eatrev is a platform for both the food lovers and who are passionate about creating healthy, delicious dishes.','Gouthams Photography is established by me with my interest in photography from my childhood with some of award winning photographs']
 var myIndex=0;
 var index = titles[myIndex];
